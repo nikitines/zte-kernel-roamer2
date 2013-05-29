@@ -42,7 +42,7 @@
 #include <linux/power_supply.h>
 #include <linux/regulator/consumer.h>
 #include <mach/rpc_pmapp.h>
-#include <proc_comm.h>
+#include "proc_comm.h"
 
 #include <mach/msm_battery.h>
 #include <linux/smsc911x.h>
